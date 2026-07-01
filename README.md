@@ -86,3 +86,18 @@ Target Variable: Churn
 - Member 1 – Data Collection & Preprocessing
 - Member 2 – EDA & Feature Engineering
 - Member 3 – Machine Learning & Evaluation
+
+
+---
+
+## Project Status
+
+🚧 This project is currently under development.
+
+Completed:
+- ✅ Week 1 – Data Preprocessing & EDA
+- ✅ Week 2 – Feature Engineering & Model Development
+
+Upcoming:
+- 🔄 Week 3 – Customer Lifetime Value (LTV) Analysis
+- 🔄 Week 4 – Dashboard, Deployment & Final Documentation
