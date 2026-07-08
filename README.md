@@ -91,3 +91,13 @@ This project predicts customer churn and estimates Customer Lifetime Value (LTV)
 - Seaborn
 - FastAPI (Upcoming)
 - GitHub
+
+---
+## 🚀 Project Progress
+- ✅ Data Collection
+- ✅ Data Cleaning & Preprocessing
+- ✅ Exploratory Data Analysis (EDA)
+- ✅ Feature Engineering
+- ✅ Estimated Customer Lifetime Value (LTV) Calculation
+- ⏳ Machine Learning Model Training (In Progress)
+- ⏳ Dashboard Development (Upcoming)
